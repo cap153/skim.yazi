@@ -26,11 +26,11 @@ run = "plugin skim"
 
 Available keybindings:
 
-| Key binding            | Alternate key | Action                      |
-|------------------------|---------------|-----------------------------|
-| <kbd><esc></kbd>       | -             | Quit the plugin             |
-| <kbd><c-u></kbd>       | <kbd>↑</kbd>  | Move up                     |
-| <kbd><c-e></kbd>       | <kbd>↓</kbd>  | Move down                   |
-| <kbd><tab></kbd>       | -             | Multi select and move down  |
-| <kbd><shift-tab></kbd> | -             | Multi select and move up    |
-| <kbd><enter></kbd>     | -             | Return yazi and go to files |
+| Key binding | Alternate key | Action                      |
+|-------------|---------------|-----------------------------|
+| <esc>       | -             | Quit the plugin             |
+| <c-u>       | <kbd>↑</kbd>  | Move up                     |
+| <c-e>       | <kbd>↓</kbd>  | Move down                   |
+| <tab>       | -             | Multi select and move down  |
+| <shift-tab> | -             | Multi select and move up    |
+| <enter>     | -             | Return yazi and go to files |
