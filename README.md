@@ -2,6 +2,8 @@
 
 [skim](https://github.com/skim-rs/skim) plugin for [Yazi](https://github.com/sxyazi/yazi).
 
+![image](https://github.com/user-attachments/assets/0f16404b-31d0-4a18-8ad7-06bf07ca6de8)
+
 ## Dependencies
 
 * [`skim`](https://github.com/skim-rs/skim)
