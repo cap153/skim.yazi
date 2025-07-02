@@ -2,7 +2,7 @@
 
 [skim](https://github.com/skim-rs/skim) plugin for [Yazi](https://github.com/sxyazi/yazi).
 
-# Dependencies
+## Dependencies
 
 * [`skim`](https://github.com/skim-rs/skim)
 * [`fd`](https://github.com/sharkdp/fd])
@@ -34,3 +34,7 @@ Available keybindings:
 | `<tab>`       | -             | Multi select and move down  |
 | `<shift-tab>` | -             | Multi select and move up    |
 | `<enter>`     | -             | Return yazi and go to files |
+
+## License
+g
+This plugin is MIT-licensed. For more information check the [LICENSE](LICENSE) file.
