@@ -5,7 +5,7 @@
 ## Dependencies
 
 * [`skim`](https://github.com/skim-rs/skim)
-* [`fd`](https://github.com/sharkdp/fd])
+* [`fd`](https://github.com/sharkdp/fd)
 * [`bat`](https://github.com/sharkdp/bat)
 
 ## Installation
