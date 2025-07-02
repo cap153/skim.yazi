@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/88cad36a-0892-49ca-a2cd-7d5e1a085ad1)
 
+[yazi+skim模糊查找](https://www.bilibili.com/video/BV1St34zMEV6/?share_source=copy_web&vd_source=d34abe3786a6b85ecc07875a85795885)
+
 ## Dependencies
 
 * [`skim`](https://github.com/skim-rs/skim)
