@@ -36,5 +36,5 @@ Available keybindings:
 | `<enter>`     | -             | Return yazi and go to files |
 
 ## License
-g
+
 This plugin is MIT-licensed. For more information check the [LICENSE](LICENSE) file.
